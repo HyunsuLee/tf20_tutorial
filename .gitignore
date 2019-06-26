@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# tensorflow tutorial stuff, such as model savers
+checkpoints/
+*.h5
+training_1/
+training_2/
