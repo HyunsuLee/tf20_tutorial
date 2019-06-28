@@ -108,3 +108,6 @@ checkpoints/
 *.h5
 training_1/
 training_2/
+*.csv
+*.tsv
+
