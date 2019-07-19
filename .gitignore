@@ -112,4 +112,7 @@ training_2/
 *.tsv
 for_generating_RNN/
 NMT_checkpoints/
+annotations/
+*.zip
+
 
